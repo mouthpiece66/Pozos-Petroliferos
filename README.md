@@ -13,9 +13,9 @@ Herramientas y Tecnologías Utilizadas
 Conclusión Final
 
 •	La mejor región para desarrollar pozos petroleros es la Región 0.
-o	Tiene la mayor ganancia promedio esperada.
-o	Su intervalo de confianza es el más amplio y sólido.
-o	Presenta riesgo nulo de pérdida.
+	Tiene la mayor ganancia promedio esperada.
+	Su intervalo de confianza es el más amplio y sólido.
+	Presenta riesgo nulo de pérdida.
 
 •	El modelo y análisis permiten tomar una decisión basada tanto en rendimiento esperado como en seguridad de la inversión.
 
